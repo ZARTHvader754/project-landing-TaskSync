@@ -1,6 +1,6 @@
 # Task Sync — Landing Page
 
-A simple, credible landing page for **Task Sync**, an app that helps you schedule daily tasks, stick to goals, and explore new hobbies through reminders, scheduling, and checklists.  
+A simple, credible landing page for **Task Sync**, an app that helps you schedule daily tasks, stick to goals, and explore new hobbies through reminders, scheduling, an checklists.  
 
 ## Project Overview
 Task Sync is designed to solve the problem of scattered to-dos and inconsistent goal-setting. It turns goals into micro-steps, schedules them intelligently around your day, and even nudges you to try new hobbies so you can balance productivity with personal growth.  
@@ -11,7 +11,7 @@ Task Sync is designed to solve the problem of scattered to-dos and inconsistent 
 - **Netlify** (deployment & hosting)  
 
 ## Live Demo
-🔗 [Live Site](https://<your-netlify-subdomain>.netlify.app)  
+🔗 [Live Site](https://taskssync.netlify.app)  
 🔗 [GitHub Repo](https://github.com/ZARTHvader754/project-landing-TaskSync)  
 
 ## Features
